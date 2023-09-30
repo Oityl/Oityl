@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oityl
 - 👀 Stack: Python 3, Django, PHP 8, Laravel 10, JavaScript, Vue 3
 - 💪 I know Lunix, my favorite distributions are Debian and Ubuntu.
-- I also use it at work Docker, PostgreSQL, Vite, RabbitMQ
+- I also use it at work Docker, PostgreSQL, Vite, RabbitMQ, Redis
 - and also git, so I have a profile here... :)
 
 <!---
