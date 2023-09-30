@@ -3,6 +3,7 @@
 - 💪 I know Lunix, my favorite distributions are Debian and Ubuntu.
 - I also use it at work Docker, PostgreSQL, Vite, RabbitMQ, Redis
 - and also git, so I have a profile here... :)
+- I mainly post my private repositories here
 
 <!---
 Oityl/Oityl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
